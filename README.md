@@ -30,4 +30,304 @@
 </div>
 
 
+# 0 科研工具
 
+## 0.1 配色网站
+
+0.1.1 Culrs [https://www.culrs.com/#/]
+
+0.1.2 ColorSpace [https://mycolor.space/]
+
+0.1.3 ColorLeap [https://colorleap.app/home]
+
+0.1.4 WebGradients [https://webgradients.com/]
+
+0.1.5 Adobe Color [https://color.adobe.com/zh/create/color-wheel]
+
+
+
+## 0.2 文献管理软件
+
+0.2.1 Endnote  教程：https://mp.weixin.qq.com/s/VlUw2t1qUUtjMpRzDpYjKw
+
+## 0.3 选刊工具
+
+https://mp.weixin.qq.com/s/oS8M-LUU2H4vHuvFwPM7-w
+
+
+
+
+
+## 0.4 深度学习
+
+### 0.4.1 深度学习可视化工具
+
+（1）https://mp.weixin.qq.com/s/XYBMoowlqe15qmkswo1TUg
+
+https://mp.weixin.qq.com/s/v7xscs1JnZrgmxZnd1teCg
+
+
+
+
+
+# 1.学习资料
+
+
+
+
+
+# 2.文献检索网站
+
+谷歌学术
+
+百度学术
+
+中国知网
+
+
+
+# 3.待学习文章区域
+
+
+
+MATLAB ROS https://mp.weixin.qq.com/s/VvfnJEoVNFrSnQUI0-PE8Q
+
+抓取：https://mp.weixin.qq.com/s/AwLfwmvpnMXYYEoPHP79qg
+
+基于MATLAB的关节型六轴机械臂轨迹规划仿真：https://mp.weixin.qq.com/s/jRX36iySrBsg83Kq0N1ayg
+
+https://mp.weixin.qq.com/s/1MyXX15RBpsT8XbV1xlttA
+
+https://mp.weixin.qq.com/s/BNUr1_G9wx66JRhv7gtH5w
+
+python 俄罗斯方块游戏：https://mp.weixin.qq.com/s/9QFshdS6LulOmV4-DdKW7Q
+
+https://mp.weixin.qq.com/s/xxTpViUGpHOQXif_Rbm_Ww
+
+https://mp.weixin.qq.com/s/_19mMz3VLQKmdiyISKDiSw
+
+YOLO:https://mp.weixin.qq.com/s/hgOucbJQB8l9QY5Jcffetg
+
+https://mp.weixin.qq.com/s/0fuSVGUvOneXIlEzdeEwpw
+
+https://mp.weixin.qq.com/s/w5-axQWBBBy1ZXrGvfrjOw
+
+https://mp.weixin.qq.com/s/XymWV6SR2W0hkkYrTm_kRg
+
+https://mp.weixin.qq.com/s/jFb92OQCpZ4AURxkha8L_w
+
+https://mp.weixin.qq.com/s/yabuPUCDLS_9HUKzngP9pg
+
+https://mp.weixin.qq.com/s/01o0rJLMMAsoJXkfuYEvxg
+
+https://mp.weixin.qq.com/s/OzgW9V0x9tfbPqzE6EfzJQ
+
+# 4.项目
+
+## 4.1 视觉项目
+
+### 4.1.1 人脸识别
+
+（1）https://mp.weixin.qq.com/s/5vB5G3fxm_YQ2GJpw7KQ9A
+
+### 4.1.2 吸烟检测
+
+（1）https://mp.weixin.qq.com/s/M2bO2EuTB1ckjtgAeUG5fw
+
+### 4.1.3 多目标追踪
+
+https://mp.weixin.qq.com/s/v9tZPOICN7iFNfIfiqntSQ
+
+https://mp.weixin.qq.com/s/Y53QOZSUESoFNfQFhBTdvw
+
+https://mp.weixin.qq.com/s/OjJo_BmgvBwLI5EnFuDDHg
+
+4.1.4 测距
+
+https://mp.weixin.qq.com/s/xSKUun1g1cLBwYANMR_W5Q
+
+4.1.5 垃圾分类
+
+https://mp.weixin.qq.com/s/aW4qFqhIyxZiSySHQVtDYg
+
+4.1.6 文字提取
+
+https://mp.weixin.qq.com/s/uaICVmQr45gsj0zJUi6BOg
+
+4.1.7 手势识别
+
+https://mp.weixin.qq.com/s/0RCLaIki0JPhwfTWJm3hng
+
+### 4.1.3 其他
+
+（1）虚拟键盘 https://mp.weixin.qq.com/s/y_IA42tAxWAeSnqqWXHm-w
+
+（2）https://mp.weixin.qq.com/s/Y4Kq3wrcOwZVxMTmeWLL0Q
+
+（肤色检测）https://mp.weixin.qq.com/s/3J-NE1r99EfHCtjcOSs1Dg
+
+https://mp.weixin.qq.com/s/cE95UCa8c7p05dITEefd_Q
+
+https://mp.weixin.qq.com/s/gZQAP9XMAA8W67nTeZC9Og
+
+https://mp.weixin.qq.com/s/2LGaBdkAZbR-C34Jtmz4Uw
+
+https://mp.weixin.qq.com/s/tc4rkOix4_EscacLSs85Aw
+
+https://mp.weixin.qq.com/s/zt8DJsdIuYjM23bRA7FsPA
+
+https://mp.weixin.qq.com/s/bp20kOGYQV-CDl2zVh_YBw
+
+https://mp.weixin.qq.com/s/gE8Y4TnxuSLSz7MFLCIF3g
+
+https://mp.weixin.qq.com/s/2_5C-Fx_C6x27ai_-R15jg
+
+https://mp.weixin.qq.com/s?__biz=Mzg5OTYzOTU2Nw==&mid=2247486088&idx=1&sn=0f6911d0a60eccf42c225bc38ef18108&chksm=c0517ae8f726f3fe3f41666310d6d581d3d02ad10181d2e3500dd2a1b7c50efd71aa5e904fd7&mpshare=1&scene=24&srcid=0802dUfxMUHalV58fRuhw7vf&sharer_sharetime=1627879520825&sharer_shareid=8d4449c0790c7e456d69a842d9935de0&key=8140425246775ada83f87e783a1cd302ff3a9bd59b02291f4e49f6d5c3f3d1e60df3ea27d2ec4d80dae6619cae87c84c24e4332ed3853f89c34604664097811b1b7cec8e9ce2353cceffc92d9f394381aac0927962c8b8fe081a21b4857736c98904c096c03ee4e8c66799aa32883d94b5314d0ce76fe24b0bd16e10b3b08370&ascene=0&uin=NjA2ODgzMzgx&devicetype=Windows+11+x64&version=63090217&lang=zh_CN&countrycode=CN&exportkey=n_ChQIAhIQKJ8b5MQCxkp%2Bne%2F76c1LlhLgAQIE97dBBAEAAAAAAGbvK9ExP70AAAAOpnltbLcz9gKNyK89dVj0chc4mj3htW9QysWiT9QmQt%2F0IXoLYYU1cUmTbXepooo5nFe9YD%2FrEsB%2F1S4I11luGnHFksHlAdu7eeGonrLtLiNU9GNI8K79IgZkQN0086Q5a8h1lmXMrlARtaY%2Fm9NrIvCegWBgDurvO0cSd0uoRSV512LxJ5GM%2Fv%2BcwqqLWlzE4zqgI3nJLzeXmlU0LyAeJVMoGD0Vqv5%2FsXFSRs7FXl2yK%2F8dujK1wfTigZR%2BJuowuVoHiSCu86Z%2F&acctmode=0&pass_ticket=yaPjFZba9crTq0IM4PaMzwJzzmaAE4UmPUo7UH8agK%2Fsq8tSa%2Bfs%2B7%2FyKFQdZpEdouBCU%2F6UEB0JavnO3T1T4Q%3D%3D&wx_header=1
+
+https://mp.weixin.qq.com/s/D2my5AvCKflVruBzQ6eJeA
+
+https://mp.weixin.qq.com/s/OeTVKvYt_EtZeWc4lJ4a-w
+
+https://mp.weixin.qq.com/s/Tsz7fW_YL1GPHKoAffiRhA
+
+https://mp.weixin.qq.com/s/kVLSOq0gxreghntfcct5-A
+
+https://mp.weixin.qq.com/s/14ppxYCnX6le2zY8_wCuZg
+
+https://mp.weixin.qq.com/s/J09Yb1Zv_mXiaavcAMQ9Xw
+
+https://mp.weixin.qq.com/s/AjFvoBCUkhFAvCDi2yQwHQ
+
+https://mp.weixin.qq.com/s/tqSmFcR-aQjDhaEyQBzeUA
+
+https://mp.weixin.qq.com/s/GcPwZOnSwlH860hQLMI1gQ
+
+https://mp.weixin.qq.com/s/ndYLuSC1R3bCSnQ-m8bJNg
+
+https://mp.weixin.qq.com/s/kFGaqi7Dk8IiXwGw8v97ww
+
+https://mp.weixin.qq.com/s/VHjZtV01-twHEZfzcSm7MA
+
+https://mp.weixin.qq.com/s/k5WePkIKKniF9gXUSFOFPg
+
+https://mp.weixin.qq.com/s/Lp4T2C6KDxRHmoGQQhv2zA
+
+https://mp.weixin.qq.com/s/n1eIOLXcp1lw9_jICnP92g
+
+https://mp.weixin.qq.com/s/yFJnCiSd9o7_-Y1L6APHQw
+
+
+
+https://mp.weixin.qq.com/s/kF7btXcvDEIADlwUazcCGw
+
+
+
+
+
+## 4.2 爬虫
+
+https://mp.weixin.qq.com/s/YsdN61OghP8RuPteGfuOGw
+
+
+
+## 4.3 机械臂
+
+https://mp.weixin.qq.com/s/a2X4ikb7v4EVSeIaYHJguQ
+
+### 4.3.1 手眼标定
+
+https://mp.weixin.qq.com/s/CwAgRQ0CLBS-xSpwkDPs4Q
+
+## 4.4 Python
+
+https://mp.weixin.qq.com/s/_CblBUXE3xzh_YwehwYBow
+
+****https://mp.weixin.qq.com/s/5Yw0KyksgQCnlucNqQlX8w
+
+https://mp.weixin.qq.com/s/Nk1kfHQOXK_JQjjkraB5wQ
+
+https://mp.weixin.qq.com/s/WYuMwCJBrWaBiDs8xp2KMA
+
+https://mp.weixin.qq.com/s/q5ISOehYH0Nqz-Rpp6_UsQ
+
+自动化办公
+
+https://mp.weixin.qq.com/s/3uUPpDXWZgLnm65uyBVULA
+
+https://mp.weixin.qq.com/s/apwK9GMXqvRJOibM5JxtAQ
+
+
+
+# 5.论文阅读与研究
+
+https://mp.weixin.qq.com/s/2Yf6T4XFtnQGROAlduXfvw
+
+https://mp.weixin.qq.com/s/8Qq-kDjiId30fzqxmFCx6A
+
+https://mp.weixin.qq.com/s/HCPQp483PkLPr6PmwUF63w
+
+https://mp.weixin.qq.com/s/1b4JyWaCDqt7SnMqNrDgMg
+
+****
+
+****
+
+https://mp.weixin.qq.com/s/1b4JyWaCDqt7SnMqNrDgMg
+
+https://mp.weixin.qq.com/s/-0ianm3_7EaBitKRbLEVIg
+
+https://mp.weixin.qq.com/s/Wh-Ridu2TENAdxyEZoZZ6g
+
+https://mp.weixin.qq.com/s/SYyt8RMXa-aLAudzSULDnw
+
+https://mp.weixin.qq.com/s/Gon2mBiy6-h-o4VKEMQWGg
+
+
+
+
+
+# 6.日常生活实用工具
+
+## 6.1 图片类
+
+### 6.1.1 照片换底色
+
+（1）[在线证件照换底色工具 - UU在线工具 (uutool.cn)](https://uutool.cn/id-photo/)
+
+
+
+
+
+https://mp.weixin.qq.com/s/-FyyK3sdAVf7OtruDt1fUA
+
+https://mp.weixin.qq.com/s/NImLzNLR00UUXAyyqnHQSQ
+
+# 7.知识学习
+
+## 7.1 solidworks
+
+https://mp.weixin.qq.com/s/lxj_9c0SA8MFv9Eh3cTdcQ
+
+## 7.2 树莓派
+
+https://mp.weixin.qq.com/s/s5vbkUzElGfzfqBfG0Py6g
+
+
+
+## 7.3 机械
+
+https://mp.weixin.qq.com/s/Nz71LcIPXb5d69lcdrtWlQ
+
+## 7.4 ROS
+
+https://mp.weixin.qq.com/s/jX6WHTpuikOjIbE6F-Ahvg
+
+## 7.5 YOLO
+
+https://mp.weixin.qq.com/s/AlJEZK5cmwnDQvGWxKr6-Q
+
+https://mp.weixin.qq.com/s/s8eVorS_5XiXOjQEJ6GK2A
+
+## 7.6 机械臂
+
+https://mp.weixin.qq.com/s/e-vJhb_oNdzHfN2KIDHgAA
