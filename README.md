@@ -66,11 +66,55 @@ https://mp.weixin.qq.com/s/oS8M-LUU2H4vHuvFwPM7-w
 
 https://mp.weixin.qq.com/s/v7xscs1JnZrgmxZnd1teCg
 
+## 0.5 实用工具
+
+### 0.5.1图片
+
+https://mp.weixin.qq.com/s/gPhrCoxB659v14xEyB-DTA
+
+https://mp.weixin.qq.com/s/KSrJbw8x6StACY-3BQh2eg
+
+
+
+
+
 
 
 
 
 # 1.学习资料
+
+## 1.1 网站
+
+https://mp.weixin.qq.com/s/jk5XApNImtUg4Mpq7uWewA
+
+https://mp.weixin.qq.com/s/emlzzCXW1KsQYxc3eyRczg
+
+https://mp.weixin.qq.com/s/hs-nr48yj_yE1aVoByWSeQ
+
+https://mp.weixin.qq.com/s/rPoFPBuEQbBWGPsSGmPKQA
+
+https://mp.weixin.qq.com/s/uHAvzlbwgOdL_4nNAj7itA
+
+https://mp.weixin.qq.com/s/cF3VhqywDCEtmhvPO-D7gg
+
+https://mp.weixin.qq.com/s/ERGo_gChjH_Zcd-WRdMY9g
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -216,9 +260,41 @@ https://mp.weixin.qq.com/s/n1eIOLXcp1lw9_jICnP92g
 
 https://mp.weixin.qq.com/s/yFJnCiSd9o7_-Y1L6APHQw
 
-
+https://mp.weixin.qq.com/s/DxoiMgCdhGB1751TNfgK9Q
 
 https://mp.weixin.qq.com/s/kF7btXcvDEIADlwUazcCGw
+
+https://mp.weixin.qq.com/s/NtOv0HMTpv0DHVlk12IhDg
+
+https://mp.weixin.qq.com/s/pS9B1Ert_lPLVg98NoNTYA
+
+https://mp.weixin.qq.com/s/MvJS-UnlUFryOUGTT1aZ5A
+
+https://mp.weixin.qq.com/s/vyef6ISd8YJYQcRfRjiV5g
+
+https://mp.weixin.qq.com/s/ufX1_AYMpa8bsaJqP4VyHw
+
+https://mp.weixin.qq.com/s/OUC1Zqd-yidMJKZ3mNkBkA
+
+https://mp.weixin.qq.com/s/VTB8y3kUu4hunRFnOh4RTA
+
+https://mp.weixin.qq.com/s/9CgFIyhj9ocgMvClO4zcuw
+
+http://mp.weixin.qq.com/s?__biz=MzU2NTUwNjQ1Mw==&mid=2247504270&idx=1&sn=92e9783b0f90f4c56ea8c53a05edaaf8&chksm=fcb82974cbcfa0622539f51b18023dcb07a8d1ecab423270154f2d5f16ee0561edabf6fb87a4&mpshare=1&scene=24&srcid=0719TD7nQfZOrbAJE1HnYefe&sharer_sharetime=1626634674684&sharer_shareid=8d4449c0790c7e456d69a842d9935de0#rd
+
+https://mp.weixin.qq.com/s/Ux6DP26p53DguyCEkwJMJA
+
+https://mp.weixin.qq.com/s/p1aRvRwqvgpv4knL-IqXwQ
+
+https://mp.weixin.qq.com/s/6yfRpLVHFs2uDgweDyGl3w
+
+https://mp.weixin.qq.com/s/QN8epdFOo_wByxlJ_1l1VQ
+
+https://mp.weixin.qq.com/s/ydxVQWkq72obHMVoFrhoCA
+
+
+
+
 
 
 
@@ -249,6 +325,40 @@ https://mp.weixin.qq.com/s/Nk1kfHQOXK_JQjjkraB5wQ
 https://mp.weixin.qq.com/s/WYuMwCJBrWaBiDs8xp2KMA
 
 https://mp.weixin.qq.com/s/q5ISOehYH0Nqz-Rpp6_UsQ
+
+https://mp.weixin.qq.com/s/YQsYIrLPjM_--K-gPTnN9Q
+
+https://mp.weixin.qq.com/s/PrFVpxtutHQenhOKAg4QFw
+
+https://mp.weixin.qq.com/s/NjTt8HqDQPcGysAdPx69AA
+
+
+
+
+
+
+
+
+
+
+
+### 4.5 博客开发
+
+https://mp.weixin.qq.com/s/-M-9bdrtrYjW5xtPE7JQCg
+
+https://mp.weixin.qq.com/s/1mMEXKzXHTl2eHJEXi-8PA
+
+https://mp.weixin.qq.com/s/-uq600tw5OoygqkYzLa6fQ
+
+
+
+
+
+
+
+
+
+
 
 自动化办公
 
@@ -281,6 +391,16 @@ https://mp.weixin.qq.com/s/Wh-Ridu2TENAdxyEZoZZ6g
 https://mp.weixin.qq.com/s/SYyt8RMXa-aLAudzSULDnw
 
 https://mp.weixin.qq.com/s/Gon2mBiy6-h-o4VKEMQWGg
+
+https://mp.weixin.qq.com/s/vls489bRQOYHDGHyQZ9pPA
+
+https://mp.weixin.qq.com/s/Gon2mBiy6-h-o4VKEMQWGg
+
+https://mp.weixin.qq.com/s/5W9IyDzrO6494NQHGLIM3A
+
+https://mp.weixin.qq.com/s/hlgnvukUmDfnTvvadMJzBw
+
+https://mp.weixin.qq.com/s/QH-SlqVgz212xmV6S0uWXg
 
 
 
@@ -318,9 +438,37 @@ https://mp.weixin.qq.com/s/s5vbkUzElGfzfqBfG0Py6g
 
 https://mp.weixin.qq.com/s/Nz71LcIPXb5d69lcdrtWlQ
 
+卷缩臂：https://mp.weixin.qq.com/s/pmfVxa1NS-2ESLGg7Thf3A
+
+### 7.3.1 步进电机
+
+https://mp.weixin.qq.com/s/KQ4DNaWjCRwgMrEs8atABA
+
+### 7.3.2 舵机
+
+https://mp.weixin.qq.com/s/rYR2uSMWl1SwEf5OjGlJrw
+
+### 7.3.3 四组机器人
+
+https://mp.weixin.qq.com/s/3AmeqNM70ocImeO1bq66ww
+
+
+
+
+
 ## 7.4 ROS
 
 https://mp.weixin.qq.com/s/jX6WHTpuikOjIbE6F-Ahvg
+
+https://mp.weixin.qq.com/s/iTGAgLAc34NUWOOmYgW0tg
+
+
+
+
+
+
+
+
 
 ## 7.5 YOLO
 
@@ -328,6 +476,125 @@ https://mp.weixin.qq.com/s/AlJEZK5cmwnDQvGWxKr6-Q
 
 https://mp.weixin.qq.com/s/s8eVorS_5XiXOjQEJ6GK2A
 
+https://mp.weixin.qq.com/s/zzz6BLln8szYByEYIGwcMA
+
+
+
+
+
+
+
+
+
 ## 7.6 机械臂
 
 https://mp.weixin.qq.com/s/e-vJhb_oNdzHfN2KIDHgAA
+
+https://mp.weixin.qq.com/s/9WR4WnepV48WIhYX42yMMQ
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## 7.7 电控
+
+### 7.7.1 电机驱动器
+
+https://mp.weixin.qq.com/s/3U_Uv4RZdDyYUET7Accn2g
+
+
+
+### 7.7.2 小车
+
+https://mp.weixin.qq.com/s/5tpsI26ltuSUPd3SKgg98g
+
+
+
+7.7.3 舵机
+
+https://mp.weixin.qq.com/s/8yiIRgINRmat5MJ5rILtFw
+
+
+
+## 7.8 视觉
+
+### 7.8.1 标定
+
+https://mp.weixin.qq.com/s/CwAgRQ0CLBS-xSpwkDPs4Q
+
+https://mp.weixin.qq.com/s/dwBoUH4qHas08M1-bffNYQ
+
+https://mp.weixin.qq.com/s/QQL9K2SonBcnDwN_IqJ3mg
+
+https://mp.weixin.qq.com/s/y37kPc5LeCdZie_-Dq4rHQ
+
+https://mp.weixin.qq.com/s/ylzE85_QBCyKQkMIsl2R6A
+
+
+
+
+
+## 7.9 无人机
+
+### 7.9.1 三轴陀螺仪
+
+https://mp.weixin.qq.com/s/Cffpz9kxvk9ja1NSpSPNRQ
+
+https://mp.weixin.qq.com/s/wI8rJmjLEbYbYIkzqJ1Uyg
+
+
+
+
+
+
+
+
+
+## 7.10 Python
+
+https://mp.weixin.qq.com/s/AitEKKEo_2ZpRo1BaL_s3Q
+
+https://mp.weixin.qq.com/s/vc6_YDnpTza4Gwmsvgufog
+
+https://mp.weixin.qq.com/s/-2UPWzx-9MbW_VTLSGYQng
+
+https://mp.weixin.qq.com/s/8AY9LD5iJJ-v_xB3tbG9YQ
+
+https://mp.weixin.qq.com/s/615EbNtI0NerQ2Kd1HzKwA
+
+https://mp.weixin.qq.com/s/FoDiItEo8UZZypbIneFhRw
+
+
+
+
+
+
+
+
+
+## 7.11 Execel
+
+https://mp.weixin.qq.com/s/1TZkaZeJpYBidEU41N_5xw
+
+https://mp.weixin.qq.com/s/ZcpxNFqGqkuzErXvHMpyMA
+
+
+
+
+
+
+
