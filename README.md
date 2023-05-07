@@ -75,8 +75,18 @@ https://mp.weixin.qq.com/s/gPhrCoxB659v14xEyB-DTA
 https://mp.weixin.qq.com/s/KSrJbw8x6StACY-3BQh2eg
 
 
+## 0.6 专利检索工具
 
+SooPat专利搜索引擎：http://www.soopat.com/Home/Index
 
+http://docjax.com/
+
+http://cnplinker.cnpeak.com/
+[**http://cnplinker.cnpeak.com/**](http://cnplinker.cnpeak.com/)
+
+**http://www.base-search.net/**
+
+http://www.base-search.net/
 
 
 
@@ -595,6 +605,8 @@ https://mp.weixin.qq.com/s/ZcpxNFqGqkuzErXvHMpyMA
 
 
 
-
+快捷键：https://mp.weixin.qq.com/s/WGXx7bAEbHbxgQdf2PROmA
+读论文：https://mp.weixin.qq.com/s/3ZlV1Cx3zPpelF-T4KJotQ
+搭建博客：https://mp.weixin.qq.com/s/vQs3yetcJjbPYg1uEylQhQ
 
 
